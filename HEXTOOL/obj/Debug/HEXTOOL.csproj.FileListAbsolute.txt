@@ -1,0 +1,11 @@
+D:\VSProjects\Stuffie\obj\Debug\Stuffie.csproj.CoreCompileInputs.cache
+D:\VSProjects\Stuffie\bin\Debug\HexTool.exe.config
+D:\VSProjects\Stuffie\bin\Debug\HexTool.exe.manifest
+D:\VSProjects\Stuffie\bin\Debug\HexTool.application
+D:\VSProjects\Stuffie\bin\Debug\HexTool.exe
+D:\VSProjects\Stuffie\bin\Debug\HexTool.pdb
+D:\VSProjects\Stuffie\obj\Debug\HexTool.TrustInfo.xml
+D:\VSProjects\Stuffie\obj\Debug\HexTool.exe.manifest
+D:\VSProjects\Stuffie\obj\Debug\HexTool.application
+D:\VSProjects\Stuffie\obj\Debug\HexTool.exe
+D:\VSProjects\Stuffie\obj\Debug\HexTool.pdb
